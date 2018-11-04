@@ -1,0 +1,62 @@
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\csc.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\System.Collections.Immutable.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\vbc.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\VBCSCompiler.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\VBCSCompiler.exe.config
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.dll.config
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.pdb
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.csprojResolveAssemblyReference.cache
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.pdb
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\csc.exe
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\System.Collections.Immutable.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\vbc.exe
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\VBCSCompiler.exe
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\VBCSCompiler.exe.config
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.dll.config
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.pdb
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.csprojResolveAssemblyReference.cache
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.pdb
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.csprojAssemblyReference.cache
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.csproj.CoreCompileInputs.cache
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.pdb
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\bin\roslyn\csc.exe
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\bin\roslyn\vbc.exe
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.dll.config
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.pdb
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Narveer Singh Brar\Desktop\arsh\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.csproj.CopyComplete
